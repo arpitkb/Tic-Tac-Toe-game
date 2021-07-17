@@ -1,1 +1,2 @@
-# Tic-Tac-Toe-game
+## Tic-Tac-Toe-game
+A simple game built on hmtl css and vanilla js.
